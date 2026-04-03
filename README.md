@@ -1,6 +1,6 @@
 # ESP32 Gaming Controller PCB
 
-A custom gaming controller PCB based on the **ESP32-S3-DevKitC**, designed in KiCad 10. Features dual analog joysticks, a full D-pad, face buttons, shoulder buttons, and system buttons — all wired directly to ESP32-S3 GPIO pins.
+A custom gaming controller PCB based on the **ESP32-S3-DevKitC**, designed in KiCad 10. Features one analog joysticks, a full D-pad, face buttons, shoulder buttons, and system buttons — all wired directly to ESP32-S3 GPIO pins.
 
 ---
 

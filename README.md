@@ -167,13 +167,13 @@ Gerber files are in the `/Gerber` folder and are ready to upload to your preferr
 ## 📸 Photos
 
 ### PCB Front
-![3D](exports/3D.png)
+![3D](Exports/3D.png)
 
 ### PCB Back
-![PCB ](exports/PCB.png)
+![PCB ](Exports/PCB.png)
 
 ### Schematic
-![Schematic](exports/Schematic.png)
+![Schematic](Exports/Schematic.png)
 
 ## 📄 License
 

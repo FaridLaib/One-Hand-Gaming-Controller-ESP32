@@ -9,23 +9,7 @@ I made a firmware that can show up as XINPUT, Xbox360 controller, Xbox One, Dual
 
 ```
 ESP32-Gaming-Controller/
-├── ESP32v1.kicad_pro       # KiCad project file
-├── ESP32v1.kicad_sch       # Schematic
-├── ESP32v1.kicad_pcb       # PCB layout
-├── ESP32v1.kicad_prl       # Local settings (optional to track)
-├── Gerber/                 # Fabrication files
-│   ├── ESP32v1-F_Cu.gbr
-│   ├── ESP32v1-B_Cu.gbr
-│   ├── ESP32v1-F_Mask.gbr
-│   ├── ESP32v1-B_Mask.gbr
-│   ├── ESP32v1-F_Silkscreen.gbr
-│   ├── ESP32v1-B_Silkscreen.gbr
-│   ├── ESP32v1-Edge_Cuts.gbr
-│   ├── ESP32v1-PTH.drl
-│   ├── ESP32v1-NPTH.drl
-│   ├── ESP32v1-job.gbrjob
-│   └── ... (additional copper/fab layers)
-├── ERC.rpt                 # Electrical Rules Check report
+Zip files for the entire project are included
 └── README.md
 ```
 

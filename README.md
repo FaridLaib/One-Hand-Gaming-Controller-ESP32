@@ -1,6 +1,7 @@
 # ESP32 Gaming Controller PCB
 
 A custom gaming controller PCB based on the **ESP32-S3-DevKitC**, designed in KiCad 10. Features one analog joysticks, a full D-pad, face buttons, shoulder buttons, and system buttons — all wired directly to ESP32-S3 GPIO pins.
+I made a firmware that can show up as XINPUT, Xbox360 controller, Xbox One, DualSense PS5, DualShock PS4, and I'll design a Nintendo Switch soon. 
 
 ---
 

@@ -164,6 +164,17 @@ Gerber files are in the `/Gerber` folder and are ready to upload to your preferr
 
 ---
 
+## 📸 Photos
+
+### PCB Front
+![3D](exports/3D.png)
+
+### PCB Back
+![PCB ](exports/PCB.png)
+
+### Schematic
+![Schematic](exports/Schematic.png)
+
 ## 📄 License
 
 This project is open source. See [LICENSE](LICENSE) for details.
